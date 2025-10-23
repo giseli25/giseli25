@@ -5,7 +5,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Giseli_Felix-8A2BE2?style=flat&logo=linkedin">
   </a>
   <a href="https://www.instagram.com/[https://www.instagram.com/developergiseli/?utm_source=qr&igsh=MTU0cDBxMTZlcmU0bw%3D%3D#]" target="\_purple">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@seu_insta-C778DD?style=flat&logo=instagram">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@developergiseli-C778DD?style=flat&logo=instagram">
   </a>
   <a href="mailto:giseli2025@gmail.com" target="\_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-giseli2025@gmail.com-F5DEB3?style=flat&logo=gmail&logoColor=purple&color=purple">
@@ -62,8 +62,8 @@ Minha experiência na **residência de software do Porto Digital** me ensinou a 
   <img alt="Aprendizagem Rápida" src="https://img.shields.io/badge/Aprendizagem_Rápida-8A2BE2?style=flat">
   <img alt="Foco no Usuário" src="https://img.shields.io/badge/Foco_no_Usuário-C778DD?style=flat">
   <img alt="Comunicação Eficaz" src="https://img.shields.io/badge/Comunicação_Eficaz-C778DD?style=flat">
-  <img alt="Curiosidade Investigativa" src="https://img.shields.io/badge/Curiosidade_Investigativa-F5DEB3?style=flat&logoColor=Purple&color=Purple">
-  <img alt="Atenção aos Detalhes" src="https://img.shields.io/badge/Atenção_aos_Detalhes-F5DEB3?style=flat&logoColor=Purple&color=Purple">
+  <img alt="Curiosidade Investigativa" src="https://img.shields.io/badge/Curiosidade_Investigativa-F5DEB3?style=flat&logoColor=purple&color=purple">
+  <img alt="Atenção aos Detalhes" src="https://img.shields.io/badge/Atenção_aos_Detalhes-F5DEB3?style=flat&logoColor=purple&color=purple">
 </p>
 
 ---
