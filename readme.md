@@ -4,18 +4,18 @@
   <a href="https://www.linkedin.com/in/[https://www.linkedin.com/in/giseli-felix-1a6aa525a/]" target="\_Purple">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Giseli_Felix-8A2BE2?style=flat&logo=linkedin">
   </a>
-  <a href="https://www.instagram.com/[https://www.instagram.com/developergiseli/?utm_source=qr&igsh=MTU0cDBxMTZlcmU0bw%3D%3D#]" target="\_Purple">
+  <a href="https://www.instagram.com/[https://www.instagram.com/developergiseli/?utm_source=qr&igsh=MTU0cDBxMTZlcmU0bw%3D%3D#]" target="\_purple">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@seu_insta-C778DD?style=flat&logo=instagram">
   </a>
   <a href="mailto:giseli2025@gmail.com" target="\_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-giseli2025@gmail.com-F5DEB3?style=flat&logo=gmail&logoColor=black&color=Purple">
+    <img alt="Email" src="https://img.shields.io/badge/Email-giseli2025@gmail.com-F5DEB3?style=flat&logo=gmail&logoColor=purple&color=purple">
   </a>
 </p>
 
 <p align="center">
   <img alt="Desenvolvedora de Software" src="https://img.shields.io/badge/Desenvolvedora_de_Software-8A2BE2?style=flat">
   <img alt="IA & Machine Learning" src="https://img.shields.io/badge/IA_&_Machine_Learning-C778DD?style=flat">
-  <img alt="Product Design (UI/UX)" src="https://img.shields.io/badge/Product_Design_(UI/UX)-F5DEB3?style=flat&logoColor=black&color=Purple">
+  <img alt="Product Design (UI/UX)" src="https://img.shields.io/badge/Product_Design_(UI/UX)-F5DEB3?style=flat&logoColor=purple&color=purple">
 </p>
 
 Sou Desenvolvedora de Software com foco principal em **Inteligência Artificial (IA)** e **Machine Learning (ML)**. Minha especialidade é construir a ponte entre modelos de dados inteligentes (usando **Python** e seus frameworks) e uma aplicação de alta performance que o usuário final considere excelente.
