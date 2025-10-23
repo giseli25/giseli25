@@ -1,4 +1,4 @@
-### Olá, meu nome é Giseli Felix dos Santos.
+### Hi, I'm Giseli Felix 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/[https://www.linkedin.com/in/giseli-felix-1a6aa525a/]" target="\_Purple">
