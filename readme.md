@@ -20,8 +20,6 @@
 
 Sou Desenvolvedora de Software com foco principal em **Inteligência Artificial (IA)** e **Machine Learning (ML)**. Minha especialidade é construir a ponte entre modelos de dados inteligentes (usando **Python** e seus frameworks) e uma aplicação de alta performance que o usuário final considere excelente.
 
-Minha experiência na **residência de software do Porto Digital** me ensinou a ir além do código: meu foco é resolver desafios reais, seja liderando o design de um produto finalista do **DeModay** ou desenvolvendo uma plataforma para o **Banco do Brasil** focada em reduzir dívida técnica.
-
 ---
 
 ### 🛠️ Meu Foco Técnico
