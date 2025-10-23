@@ -1,69 +1,74 @@
-# 🚀 Star Tech - Plataforma de Gamificação para Devs
+### Olá, meu nome é Giseli Felix dos Santos.
 
-<p align="left">
-  <img alt="React" src="https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-4.9.5-3178C6?logo=typescript">
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-4.4.5-646CFF?logo=vite">
-  <img alt="React Query" src="https://img.shields.io/badge/React_Query-4.29.19-FF4154?logo=reactquery">
+<p align="center">
+  <a href="https://www.linkedin.com/in/[SEU_LINKEDIN_AQUI]" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Giseli_Felix-8A2BE2?style=flat&logo=linkedin">
+  </a>
+  <a href="https://www.instagram.com/[SEU_INSTAGRAM_AQUI]" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@seu_insta-C778DD?style=flat&logo=instagram">
+  </a>
+  <a href="mailto:giseli2025@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-giseli2025@gmail.com-F5DEB3?style=flat&logo=gmail&logoColor=black&color=black">
+  </a>
 </p>
 
 <p align="center">
-  <strong>Uma plataforma web de gamificação criada para as equipes de tecnologia do Banco do Brasil, focada em reduzir a dívida técnica de forma lúdica e engajadora.</strong>
+  <img alt="Desenvolvedora de Software" src="https://img.shields.io/badge/Desenvolvedora_de_Software-8A2BE2?style=flat">
+  <img alt="React e React Native" src="https://img.shields.io/badge/React_&_React_Native-C778DD?style=flat">
+  <img alt="UI/UX Design" src="https://img.shields.io/badge/UI_/_UX_Design-F5DEB3?style=flat&logoColor=black&color=black">
 </p>
+
+Sou Desenvolvedora de Software com foco em **React** e **React Native**, especializada em transformar desafios de negócio em soluções de tecnologia engajadoras e eficientes.
+
+Minha experiência inclui a participação na **residência de software do Porto Digital**, onde liderei o design de produtos e desenvolvi plataformas de gamificação para clientes de grande porte, como o **Banco do Brasil**.
+
+Meu objetivo profissional não é apenas codificar, mas resolver problemas complexos. Seja **reduzindo dívida técnica** ou criando sistemas de recomendação que foram **finalistas em competições de inovação (DeModay)**, meu foco é entregar valor real ao negócio.
+
+---
+
+### 📊 Minhas Estatísticas
 
 <p align="center">
-  <a href="#-sobre-o-projeto">Sobre</a> •
-  <a href="#-funcionalidades">Funcionalidades</a> •
-  <a href="#-tecnologias">Tecnologias</a> •
-  <a href="#-autor">Autor</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO_GITHUB_AQUI]&show_icons=true&hide_border=true&title_color=8A2BE2&icon_color=C778DD&text_color=F5DEB3&bg_color=1F1A2A&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub de Giseli" />
 </p>
 
-<p align="center">
-  <img alt="Demonstração do Star Tech" src="[LINK_PARA_SEU_GIF_OU_IMAGEM_DO_STAR_TECH]">
+---
+
+### 🛠️ Minhas Especialidades (Por Nível de Confiança)
+
+#### 💜 Foco Principal (Tecnologias que domino)
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-8A2BE2?style=flat&logo=react">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-8A2BE2?style=flat&logo=typescript">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-8A2BE2?style=flat&logo=javascript">
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-8A2BE2?style=flat&logo=react">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-8A2BE2?style=flat&logo=figma">
 </p>
 
-## 🎯 Sobre o Projeto
+#### 🌸 Tecnologias Secundárias (Alto conhecimento)
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/Java-C778DD?style=flat&logo=openjdk">
+  <img alt="Python" src="https://img.shields.io/badge/Python-C778DD?style=flat&logo=python">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-C778DD?style=flat&logo=mysql">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-C778DD?style=flat&logo=html5">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-C778DD?style=flat&logo=css3">
+</p>
 
-O **Star Tech** foi um projeto apresentado no DeModay, desenhado para resolver um desafio real do **Banco do Brasil**: a alta dívida técnica e a dificuldade em motivar as equipes a resolver *minor issues* de código.
-
-A solução foi criar uma plataforma de gamificação com temática espacial, onde tarefas de manutenção e *refactoring* são transformadas em missões. O objetivo principal era aumentar a resolução dessas issues em 20%, transformando o trabalho de manutenção em uma competição saudável.
-
-Neste projeto, atuei diretamente na fundação da experiência do usuário e na arquitetura de front-end:
-- Desenvolvi o **Design System** completo, garantindo coesão visual.
-- Prototipação de alta fidelidade das telas principais.
-- Implementei a documentação técnica dos componentes de UI.
-- Estruturei os modelos de dados e contratos de interface (JSON) para a comunicação com o back-end.
-
----
-
-## ✨ Funcionalidades
-
-* [✅] **Design System Coeso:** Componentes reutilizáveis e documentados.
-* [✅] **Gamificação:** Sistema de pontos, rankings e missões baseado em tarefas técnicas.
-* [✅] **Dashboard de Equipe:** Visualização do progresso e da redução da dívida técnica.
-* [✅] **Integração (simulada):** Estrutura de dados pronta para consumir APIs de gerenciamento de tarefas (como Jira ou GitLab).
+#### 🥖 Ferramentas de Trabalho (Uso Diário)
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F5DEB3?style=flat&logo=git&logoColor=black&color=black">
+  <img alt="Metodologias Ágeis" src="https://img.shields.io/badge/Metodologias_Ágeis-F5DEB3?style=flat&logo=trello&logoColor=black&color=black">
+  <img alt="Miro" src="https://img.shields.io/badge/Miro-F5DEB3?style=flat&logo=miro&logoColor=black&color=black">
+</P>
 
 ---
 
-## 🛠️ Tecnologias
+### 🚀 Cases de Destaque (Projetos Relevantes)
 
-A pilha de tecnologia foi escolhida para garantir alta performance e uma excelente experiência de desenvolvimento (DX).
-
-* **[React](https://reactjs.org/) (com [Vite](https://vitejs.dev/))**: Para uma interface de usuário reativa e um ambiente de desenvolvimento ultrarrápido.
-* **[TypeScript](https://www.typescriptlang.org/)**: Para garantir a tipagem e a escalabilidade do código, reduzindo bugs.
-* **[React Query](https://tanstack.com/query/v4)**: Para gerenciamento de estado do servidor (data fetching, caching e mutations) de forma eficiente.
-* **[ESLint](https://eslint.org/)**: Para garantir a padronização e a qualidade do código em toda a equipe.
-
----
-
-## 🏁 Como Executar (Exemplo)
-
-```bash
-# Clone este repositório
-$ git clone [https://github.com/Gi](https://github.com/Gi)[SEU_USUARIO]/star-tech
-
-# Acesse a pasta do projeto
-$ cd star-tech
+| Projeto | O Desafio | Minha Atuação | Tecnologias |
+| :--- | :--- | :--- | :--- |
+| **🛰️ Star Tech** <br> (para Banco do Brasil) | Reduzir a dívida técnica e melhorar a qualidade do código das equipes de tecnologia do **Banco do Brasil** de forma lúdica. | Desenvolvi o **Design System** e prototipei as telas, garantindo a coesão da UX. Estruturei os modelos de dados (JSON). | <img alt="React" src="https://img.shields.io/badge/React-8A2BE2?style=flat&logo=react"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-C778DD?style=flat&logo=typescript"> <img alt="React Query" src="https://img.shields.io/badge/React_Query-8A2BE2?style=flat&logo=reactquery"> <img alt="Vite" src="https://img.shields.io/badge/Vite-F5DEB3?style=flat&logo=vite&logoColor=black&color=black"> |
+| **🏆 Bora!** <br> (Finalista DeModay) | Conectar usuários à cultura local com um sistema de recomendação personalizado e engajador. | **Liderei a fase de UI/UX (Figma)** e **defini as regras de negócio** e fluxos de usuário do sistema de recompensas. | <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-8A2BE2?style=flat&logo=javascript"> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-C778DD?style=flat&logo=html5"> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-C778DD?style=flat&logo=css3"> <img alt="Figma" src="https://img.shields.io/badge/Figma-F5DEB3?style=flat&logo=figma&logoColor=black&color=black"> <img alt="Miro" src="https://img.shields.io/badge/Miro-F5DEB3?style=flat&logo=miro&logoColor=black&color=black"> |
 
 # Instale as dependências
 $ npm install
