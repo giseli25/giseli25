@@ -1,73 +1,74 @@
-# 🚀 [Nome do Seu Projeto]
+# 🚀 Star Tech - Plataforma de Gamificação para Devs
 
 <p align="left">
-  <img alt="Linguagem Principal" src="https://img.shields.io/github/languages/top/[SEU_USUARIO]/[SEU_REPOSITORIO]?color=56BEB8">
-  <img alt="Licença" src="https://img.shields.io/github/license/[SEU_USUARIO]/[SEU_REPOSITORIO]?color=56BEB8">
-  <img alt="Status do Deploy" src="https://img.shields.io/website?url=https://[LINK_DO_SEU_PROJETO_ONLINE].com&label=deploy&color=56BEB8">
+  <img alt="React" src="https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-4.9.5-3178C6?logo=typescript">
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-4.4.5-646CFF?logo=vite">
+  <img alt="React Query" src="https://img.shields.io/badge/React_Query-4.29.19-FF4154?logo=reactquery">
 </p>
 
 <p align="center">
-  <strong>Uma breve descrição (uma frase) que explica o que o seu projeto faz.</strong>
-  <br>
-  Ex: "Plataforma de análise de dados em tempo real para otimização de logística."
+  <strong>Uma plataforma web de gamificação criada para as equipes de tecnologia do Banco do Brasil, focada em reduzir a dívida técnica de forma lúdica e engajadora.</strong>
 </p>
 
 <p align="center">
   <a href="#-sobre-o-projeto">Sobre</a> •
   <a href="#-funcionalidades">Funcionalidades</a> •
   <a href="#-tecnologias">Tecnologias</a> •
-  <a href="#-como-executar">Como Executar</a> •
   <a href="#-autor">Autor</a>
 </p>
 
 <p align="center">
-  <img alt="Demonstração do Projeto" src="[LINK_PARA_SEU_GIF_OU_IMAGEM]">
+  <img alt="Demonstração do Star Tech" src="[LINK_PARA_SEU_GIF_OU_IMAGEM_DO_STAR_TECH]">
 </p>
 
 ## 🎯 Sobre o Projeto
 
-Descreva o projeto com mais detalhes. Qual problema ele resolve? Qual foi a sua motivação? Se foi um projeto de faculdade, bootcamp ou desafio técnico, mencione isso e o que você aprendeu.
+O **Star Tech** foi um projeto apresentado no DeModay, desenhado para resolver um desafio real do **Banco do Brasil**: a alta dívida técnica e a dificuldade em motivar as equipes a resolver *minor issues* de código.
 
-**Exemplo:**
-Este projeto foi desenvolvido como parte do [Nome do Bootcamp/Curso] e foca na construção de uma arquitetura de microsserviços escalável. O objetivo foi criar uma solução [descreva o objetivo] que utiliza as melhores práticas de mercado em [Cloud/IA/Backend].
+A solução foi criar uma plataforma de gamificação com temática espacial, onde tarefas de manutenção e *refactoring* são transformadas em missões. O objetivo principal era aumentar a resolução dessas issues em 20%, transformando o trabalho de manutenção em uma competição saudável.
+
+Neste projeto, atuei diretamente na fundação da experiência do usuário e na arquitetura de front-end:
+- Desenvolvi o **Design System** completo, garantindo coesão visual.
+- Prototipação de alta fidelidade das telas principais.
+- Implementei a documentação técnica dos componentes de UI.
+- Estruturei os modelos de dados e contratos de interface (JSON) para a comunicação com o back-end.
 
 ---
 
 ## ✨ Funcionalidades
 
-Liste as principais características do seu projeto.
-
-* [✅] Autenticação de usuários (Login/Cadastro)
-* [✅] Dashboard para visualização de dados
-* [✅] Upload de arquivos e processamento assíncrono
-* [✅] Consumo de uma API externa para [propósito]
-* [✅] Deploy automatizado com [Nome da Ferramenta, ex: Vercel, Netlify, AWS]
+* [✅] **Design System Coeso:** Componentes reutilizáveis e documentados.
+* [✅] **Gamificação:** Sistema de pontos, rankings e missões baseado em tarefas técnicas.
+* [✅] **Dashboard de Equipe:** Visualização do progresso e da redução da dívida técnica.
+* [✅] **Integração (simulada):** Estrutura de dados pronta para consumir APIs de gerenciamento de tarefas (como Jira ou GitLab).
 
 ---
 
 ## 🛠️ Tecnologias
 
-Liste todas as tecnologias, ferramentas e bibliotecas que você usou. Separe por categorias (Frontend, Backend, etc.). Isso ajuda o recrutador a bater o olho e ver se você sabe o que ele procura.
+A pilha de tecnologia foi escolhida para garantir alta performance e uma excelente experiência de desenvolvimento (DX).
 
-**Frontend**
-* [React](https://reactjs.org/)
-* [Next.js](https://nextjs.org/)
-* [TypeScript](https://www.typescriptlang.org/)
-* [TailwindCSS](https://tailwindcss.com/)
-
-**Backend**
-* [Node.js](https://nodejs.org/)
-* [NestJS](https://nestjs.com/) (ou Python com Django/Flask, C# com .NET)
-* [Prisma](https://www.prisma.io/) (ou outro ORM)
-
-**Banco de Dados**
-* [PostgreSQL](https://www.postgresql.org/)
-* [Redis](https://redis.io/)
-
-**DevOps & Cloud**
-* [Docker](https://www.docker.com/)
-* [AWS S3](https://aws.amazon.com/s3/) (para storage)
-* [Github Actions](https://github.com/features/actions) (para CI/CD)
+* **[React](https://reactjs.org/) (com [Vite](https://vitejs.dev/))**: Para uma interface de usuário reativa e um ambiente de desenvolvimento ultrarrápido.
+* **[TypeScript](https://www.typescriptlang.org/)**: Para garantir a tipagem e a escalabilidade do código, reduzindo bugs.
+* **[React Query](https://tanstack.com/query/v4)**: Para gerenciamento de estado do servidor (data fetching, caching e mutations) de forma eficiente.
+* **[ESLint](https://eslint.org/)**: Para garantir a padronização e a qualidade do código em toda a equipe.
 
 ---
 
+## 🏁 Como Executar (Exemplo)
+
+```bash
+# Clone este repositório
+$ git clone [https://github.com/Gi](https://github.com/Gi)[SEU_USUARIO]/star-tech
+
+# Acesse a pasta do projeto
+$ cd star-tech
+
+# Instale as dependências
+$ npm install
+
+# Rode a aplicação
+$ npm run dev
+
+# O servidor iniciará na porta http://localhost:5173
