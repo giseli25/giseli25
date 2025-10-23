@@ -62,8 +62,8 @@ Minha experiência na **residência de software do Porto Digital** me ensinou a 
   <img alt="Aprendizagem Rápida" src="https://img.shields.io/badge/Aprendizagem_Rápida-8A2BE2?style=flat">
   <img alt="Foco no Usuário" src="https://img.shields.io/badge/Foco_no_Usuário-C778DD?style=flat">
   <img alt="Comunicação Eficaz" src="https://img.shields.io/badge/Comunicação_Eficaz-C778DD?style=flat">
-  <img alt="Curiosidade Investigativa" src="https://img.shields.io/badge/Curiosidade_Investigativa-F5DEB3?style=flat&logoColor=black&color=Purple">
-  <img alt="Atenção aos Detalhes" src="https://img.shields.io/badge/Atenção_aos_Detalhes-F5DEB3?style=flat&logoColor=black&color=Purple">
+  <img alt="Curiosidade Investigativa" src="https://img.shields.io/badge/Curiosidade_Investigativa-F5DEB3?style=flat&logoColor=Purple&color=Purple">
+  <img alt="Atenção aos Detalhes" src="https://img.shields.io/badge/Atenção_aos_Detalhes-F5DEB3?style=flat&logoColor=Purple&color=Purple">
 </p>
 
 ---
