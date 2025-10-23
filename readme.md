@@ -5,7 +5,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Giseli_Felix-8A2BE2?style=flat&logo=linkedin">
   </a>
   <a href="https://www.instagram.com/[https://www.instagram.com/developergiseli/?utm_source=qr&igsh=MTU0cDBxMTZlcmU0bw%3D%3D#]" target="\_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-[@seu_insta](https://www.instagram.com/developergiseli/?utm_source=qr&igsh=MTU0cDBxMTZlcmU0bw%3D%3D#)-C778DD?style=flat&logo=instagram">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@seu_insta-C778DD?style=flat&logo=instagram">
   </a>
   <a href="mailto:giseli2025@gmail.com" target="\_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-giseli2025@gmail.com-F5DEB3?style=flat&logo=gmail&logoColor=black&color=black">
@@ -21,23 +21,6 @@
 Sou Desenvolvedora de Software com foco principal em **Inteligência Artificial (IA)** e **Machine Learning (ML)**. Minha especialidade é construir a ponte entre modelos de dados inteligentes (usando **Python** e seus frameworks) e uma aplicação de alta performance que o usuário final considere excelente.
 
 Minha experiência na **residência de software do Porto Digital** me ensinou a ir além do código: meu foco é resolver desafios reais, seja liderando o design de um produto finalista do **DeModay** ou desenvolvendo uma plataforma para o **Banco do Brasil** focada em reduzir dívida técnica.
-
----
-
-### 📊 Minhas Estatísticas
-
-<p align="center">
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO_GITHUB_AQUI]&show_icons=true&hide_border=true&title_color=8A2BE2&icon_color=C778DD&text_color=F5DEB3&bg_color=1F1A2A&count_private=true&include_all_commits=true" 
-    alt="Estatísticas do GitHub de Giseli" 
-  />
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO_GITHUB_AQUI]&layout=compact&hide_border=true&title_color=8A2BE2&text_color=F5DEB3&bg_color=1F1A2A&langs_count=6&theme=transparent" 
-    alt="Linguagens Mais Usadas por Giseli"
-  />
-</p>
 
 ---
 
