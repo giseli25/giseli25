@@ -5,7 +5,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Giseli_Felix-8A2BE2?style=flat&logo=linkedin">
   </a>
   <a href="https://www.instagram.com/[https://www.instagram.com/developergiseli/?utm_source=qr&igsh=MTU0cDBxMTZlcmU0bw%3D%3D#]" target="\_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/C778DD?style=flat&logo=instagram">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-[@seu_insta](https://www.instagram.com/developergiseli/?utm_source=qr&igsh=MTU0cDBxMTZlcmU0bw%3D%3D#)-C778DD?style=flat&logo=instagram">
   </a>
   <a href="mailto:giseli2025@gmail.com" target="\_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-giseli2025@gmail.com-F5DEB3?style=flat&logo=gmail&logoColor=black&color=black">
