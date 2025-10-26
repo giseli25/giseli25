@@ -1,62 +1,66 @@
 <p align="center">
-  <img src="https://via.placeholder.com/900x200/8A2BE2/EEE8AA?text=🚀+Gi+-+UX/UI+&+IA+Applied" alt="Banner" style="border-radius: 12px;" />
+  <img src="https://via.placeholder.com/900x200/4B0082/FFFFFF?text=⭐+Giseli+Felix+--+Liderança+Estratégica+em+Produto+e+Experiência" alt="Banner focado em Estratégia" style="border-radius: 12px;" />
 </p>
 
-<h1 align="center">💜 Olá, eu sou a Gi</h1>
+<h1 align="center">🔥 Olá, eu sou a Giseli Felix</h1>
 <p align="center">
-  <strong>Product Designer | UX/UI | IA aplicada a produtos digitais | Full Stack Enthusiast</strong>
+  <strong>Especialista Sênior em Produto e Experiência (Product Design & Engineering)</strong>
+  <br>
+  **Foco em escalar produtos com alta performance e Design System.**
 </p>
 
 ---
 
-## 🌟 Sobre mim
-Sou apaixonada por **criar experiências digitais que encantam o usuário e geram impacto real nos negócios**.  
-Meu foco é combinar **design centrado no usuário, IA aplicada e front-end** para entregar **produtos eficientes, bonitos e funcionais**.
+## 🚀 Sobre a Minha Estratégia (Nível Sênior)
+Não apenas crio: eu **estrategizo, priorizo e executo** soluções digitais que **escalam o negócio**. Minha expertise está na interseção entre **Design Estratégico (UX/UI)** e **Engenharia de Front-end de Alta Performance**, garantindo:
+
+1.  **Geração de Valor:** Desenho de jornadas que aumentam **receita** e **retenção de usuários**.
+2.  **Liderança Técnica:** Implementação de **Design Systems** robustos e padronização de código (React) para **otimizar o time-to-market** do time.
+3.  **Visão 360°:** Tradução de necessidades de negócio (KPIs) em especificações técnicas e **soluções centradas no usuário**, com lógica impecável e organização.
+
+> **Minha missão é simples:** Reduzir o risco e acelerar o impacto da engenharia de produto.
 
 ---
 
-## 🎯 Objetivo Profissional
-Atuar em **empresas de tecnologia de ponta ou bancos líderes**, desenvolvendo **produtos digitais inteligentes e experiências memoráveis para usuários**, com **impacto mensurável**.
+## 🎯 Impacto e Afinidade
+<div align="center">
+💡 **Liderar a criação de produtos do zero ao mercado (Go-to-Market)**  |  📈 **Conectar UX/UI diretamente com KPIs de Negócio (ex: Taxa de Conversão)**  
+🛠 **Implementar e gerenciar Design System em React**  |  🏆 **Ter autonomia para entregar resultados que economizam/geram milhões.**  
+</div>
 
 ---
 
-## 🟣 Skills Estratégicas
+## ⚙️ Skills Estratégicas e Ferramentas
+
+| Liderança e Estratégia | Arquitetura Front-end (Senior) | Ferramentas Essenciais |
+| :--- | :--- | :--- |
+| **Estratégia de Produto** (OKR/KPI) | **React / React Native** (Componentização Avançada) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) (Protótipos High Fidelity) |
+| **Gestão de Stakeholders** | **Design System** (Desde o Atomic Design) | **Jira / Trello / Asana** (Gestão Ágil) |
+| **Metodologia Ágil (Scrum/Kanban)** | **Performance Web (Web Vitals/SEO)** | **Gitflow** e Versionamento Avançado |
+| **Testes A/B e Otimização** | **JavaScript** (ES6+ e Testes Unitários) | **Notion** (Documentação Estratégica) |
+
+---
+
+## 🏆 Estudos de Caso Chave (Foco em Resultado)
 
 <div align="center">
 
-| UX/UI | Front-end | IA Aplicada | Ferramentas |
-|-------|-----------|-------------|-------------|
-| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![ChatGPT](https://img.shields.io/badge/ChatGPT-00FFDD?style=for-the-badge&logo=chatgpt&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| Wireframes & Prototipagem | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | Automação de protótipos | Notion / Jira / Trello |
-| Testes de usabilidade | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | IA aplicada a UX | Slack / Teams |
-| Design visual: cores, tipografia e microinterações | React / React Native | Insights inteligentes de usuários | VS Code |
-
+### 1. 🟣 Reestruturação Estratégica do Sistema X
+<div style="background: linear-gradient(135deg, #4B0082, #9932CC); border-radius: 12px; padding: 12px; margin: 12px 0; color: white;">
+<strong>DESAFIO:</strong> Processo de onboarding complexo, gerando 35% de abandono.
+<br>
+<strong>AÇÃO:</strong> Liderança na **revisão de jornadas UX**, prototipagem e implementação de um novo fluxo **mobile-first** em React Native.
+<br>
+<strong>RESULTADO:</strong> Redução de 42% na taxa de abandono do onboarding e aumento estimado de **R$ 1.5 Milhão na Receita Anual** em testes.
 </div>
 
----
-
-## 💜 Projetos Estratégicos
-
-<div align="center">
-
-### 🟣 App de Produtividade Inteligente
-<div style="background: linear-gradient(135deg, #8A2BE2, #D8BFD8); border-radius: 12px; padding: 10px; margin: 10px 0;">
-**Front-end:** React Native  
-**UX/UI:** Experiência intuitiva, visual lilás/bege/roxo  
-**IA aplicada:** Sugestões inteligentes → +40% produtividade  
-</div>
-
-### 🟣 Website Interativo
-<div style="background: linear-gradient(135deg, #D8BFD8, #EEE8AA); border-radius: 12px; padding: 10px; margin: 10px 0;">
-**Tecnologias:** HTML, CSS, JS  
-**Design:** Harmonia visual lilás, roxo e bege  
-**Impacto:** Prototipagem automatizada via IA → testes mais rápidos
-</div>
-
-### 🟣 Integração de Sistema Corporativo (simulado)
-<div style="background: linear-gradient(135deg, #8A2BE2, #EEE8AA); border-radius: 12px; padding: 10px; margin: 10px 0;">
-**API de integração** entre plataformas  
-**Automação de relatórios:** redução de 50% no tempo de análise
+### 2. 🟣 Criação e Gestão de Design System para E-commerce
+<div style="background: linear-gradient(135deg, #9932CC, #4B0082); border-radius: 12px; padding: 12px; margin: 12px 0; color: white;">
+<strong>DESAFIO:</strong> Inconsistência visual e 40% de retrabalho do time Front-end.
+<br>
+<strong>AÇÃO:</strong> Criação do **Design System completo** (Tokens, Componentes React, Documentação) e treinamento de equipes.
+<br>
+<strong>RESULTADO:</strong> Redução de **65% no tempo de desenvolvimento** de novas features e garantia de 100% de consistência visual em 5 produtos.
 </div>
 
 </div>
@@ -65,9 +69,11 @@ Atuar em **empresas de tecnologia de ponta ou bancos líderes**, desenvolvendo *
 
 ## 🌐 Contato Profissional
 <p align="center">
-📧 gi.tech@gmail.com | 🌐 LinkedIn: [linkedin.com/in/gi-tech](https://linkedin.com/in/gi-tech) | 💜 GitHub: [github.com/gi-tech](https://github.com/gi-tech)
+📧 giseli2025@gmail.com | 🌐 LinkedIn: https://www.linkedin.com/in/giseli-felix-1a6aa525a/ | 💜 GitHub: https://github.com/giseli25/giseli25)
 </p>
 
+---
+
 <p align="center">
-  <strong style="background: linear-gradient(to right, #8A2BE2, #D8BFD8); -webkit-background-clip: text; color: transparent;">“Criar soluções inteligentes que impactam usuários e negócios é o que me move. Vamos construir o futuro juntos.” 🚀</strong>
+  <strong style="background: linear-gradient(to right, #4B0082, #9932CC); -webkit-background-clip: text; color: transparent;">“Minha expertise é traduzir estratégia de negócio em experiências digitais que geram impacto financeiro real.” 🚀</strong>
 </p>
