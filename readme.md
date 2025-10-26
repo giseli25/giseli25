@@ -1,61 +1,55 @@
 <p align="center">
-  <img src="https://via.placeholder.com/800x200/8A2BE2/EEE8AA?text=💜+Gi+-+Product+Designer+&+Tech" alt="Banner" />
+  <img src="https://via.placeholder.com/800x200/8A2BE2/EEE8AA?text=🚀+Gi+-+UX/UI+&+IA+Applied" alt="Banner" />
 </p>
 
-<h1 align="center">🚀 Olá, eu sou a Gi</h1>
+<h1 align="center">💜 Olá, eu sou a Gi</h1>
 <p align="center">
-  <strong>Product Designer | UX/UI | Full Stack Enthusiast | Soluções Inteligentes</strong>
+  <strong>Product Designer | UX/UI | IA aplicada a produtos digitais | Full Stack Enthusiast</strong>
 </p>
 
 ---
 
-## 💜 Sobre Mim
-Sou apaixonada por **transformar ideias em produtos digitais que encantam o usuário**.  
-Tenho perfil **criativo, visionário e estratégico**, e gosto de **planejar, organizar e ver resultados funcionando**.  
-
-- 🖌️ Especialidade em **UX/UI e design de experiências digitais**  
-- 💻 Experiência em **Front-end com React/React Native e integração com APIs**  
-- 🤖 Conhecimento em **IA aplicada a produtos digitais para soluções inteligentes**  
-- 📈 Foco em criar **produtos que geram resultados reais para empresas e usuários**  
+## 🎯 Objetivo Profissional
+Atuar em **empresas de tecnologia de ponta ou bancos líderes**, criando **produtos digitais inteligentes e experiências de usuário excepcionais**, entregando **impacto mensurável** e soluções inovadoras.
 
 ---
 
-## 🟣 Tecnologias e Skills
-| Front-end | Back-end | Design | Ferramentas |
-|-----------|----------|--------|-------------|
-| HTML5 / CSS3 / Sass | Node.js / Express | UX/UI Design | Git / GitHub |
-| JavaScript / React | Python / APIs REST | Prototipagem | Figma / Adobe XD |
-| React Native / Flutter | Firebase / MongoDB | Testes de Usabilidade | VS Code / Notion |
-| IA aplicada a produtos | Integração de sistemas | Experiência do Usuário | ChatGPT / Automação |
+## 🟣 Skills Estratégicas
+| UX/UI | Front-end | IA Aplicada | Ferramentas |
+|-------|-----------|-------------|-------------|
+| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![ChatGPT](https://img.shields.io/badge/ChatGPT-00FFDD?style=for-the-badge&logo=chatgpt&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| Prototipagem & Wireframes | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | IA para insights de UX | ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) |
+| Testes de usabilidade | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Automação de protótipos | Jira / Trello / Teams |
+| Design visual (cores, tipografia, animações) | React / React Native | IA aplicada a produtos digitais | VS Code |
 
 ---
 
-## 💜 Projetos Selecionados
+## 💜 Projetos Estratégicos
 ### 1️⃣ App de Produtividade Inteligente
-- 📱 Front-end em **React Native**  
-- 🎨 UX/UI com foco em **cores e experiências intuitivas**  
-- ⚡ Funcionalidade principal: **IA para sugestões e automação de tarefas**  
+- **Front-end:** React Native  
+- **UX/UI:** Experiência intuitiva, visual lilás/bege/roxo  
+- **IA aplicada:** Sugestões inteligentes → **+40% produtividade em testes internos**  
+- [Demo](#) | [GitHub](#)
 
 ### 2️⃣ Website de Portfólio Interativo
-- 💻 HTML, CSS, JS com **animações modernas**  
-- 🌐 Paleta: **bege, lilás e roxo**, harmoniosa e profissional  
-- 🎯 Mostra projetos, skills e experiência prática  
+- **Tecnologias:** HTML, CSS, JS  
+- **Design:** Paleta lilás, roxo e bege  
+- **Impacto:** Prototipagem automatizada via IA → **testes com usuários mais rápidos**  
+- [Demo](#) | [GitHub](#)
+
+### 3️⃣ Integração de Sistema Corporativo (simulado)
+- **API de integração** entre plataformas  
+- **Automação de relatórios:** redução de 50% no tempo de análise  
+- [Demo](#) | [GitHub](#)
 
 ---
 
-## 📈 Por que me contratar
-- Combino **visão estratégica + criatividade + execução prática**  
-- Capaz de **entregar produtos digitais que impactam e encantam usuários**  
-- Uso **IA e automação** para acelerar resultados e aumentar produtividade  
-- Sempre buscando **soluções inovadoras que agregam valor real à empresa**  
-
----
-
-## 🌈 Contato
+## 🌐 Contato Profissional
 - 📧 Email: gi.tech@gmail.com  
 - 🌐 LinkedIn: [linkedin.com/in/gi-tech](https://linkedin.com/in/gi-tech)  
 - 💜 GitHub: [github.com/gi-tech](https://github.com/gi-tech)  
+- 🎨 Portfólio: [gi-tech-portfolio.com](https://gi-tech-portfolio.com) *(colocar real depois)*  
 
 <p align="center">
-  <strong style="color:#8A2BE2;">“Criar soluções inteligentes e impactantes é o que me move. Vamos construir juntos o futuro da sua empresa.” 🚀</strong>
+  <strong style="color:#8A2BE2;">“Criar soluções inteligentes que impactam usuários e negócios é o que me move. Vamos construir o futuro juntos.” 🚀</strong>
 </p>
