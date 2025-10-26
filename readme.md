@@ -1,70 +1,70 @@
 <p align="center">
-  <img src="https://via.placeholder.com/900x200/1C2833/F7F9F9?text=GISELI+FELIX+--+Product+Strategy+and+Scale+Engineering" alt="Banner focado em Estratégia e Escala" style="border-radius: 12px;" />
+  <img src="https://via.placeholder.com/900x200/2C3E50/F1C40F?text=GISELI+FELIX+--+Product+Strategy+and+Engineering+Leadership" alt="Banner focado em Estratégia e Liderança" style="border-radius: 12px;" />
 </p>
 
-<h1 align="center">💡 Giseli Felix: Traduzo Visão de Produto em Valor de Negócio.</h1>
+<h1 align="center">✅ Giseli Felix: Eu defino a Estratégia e Lidero a Implementação de Produtos.</h1>
 <p align="center">
-  <strong>Especialista em Estratégia de Produto (UX/UI) e Engenharia de Alto Nível (Front-End)</strong>
+  <strong>Especialista em Experiência de Produto e Liderança Técnica de Front-End (React)</strong>
   <br>
-  **Foco em Liderança Técnica e crescimento de produtos B2C e B2B.**
+  **Foco principal: Conectar o *roadmap* de produto aos resultados mensuráveis do negócio.**
 </p>
 
 ---
 
-## 🌟 Proposta de Valor no Nível Executivo (The Scale Specialist)
-Eu sou a profissional que garante a **conexão entre a Estratégia de Mercado e a Experiência Final**. Meu valor está em:
+## 🚀 Meu Modelo de Trabalho (Responsabilidades de Alto Nível)
+Minha atuação é estratégica e se concentra na **governança e escalabilidade** de soluções digitais. Eu me concentro em três pilares:
 
-* **Impacto no P&L (Lucro e Prejuízo):** Desenho e implemento soluções que demonstram impacto direto em **KPIs Financeiros** (CAC, LTV, Receita por Usuário).
-* **Decisões de Arquitetura:** Vou além do código limpo. Eu defino a **arquitetura de Front-end (React)** focada em performance, segurança e escalabilidade para múltiplos produtos/squads.
-* **Gestão de Complexidade:** Lidero a definição e a adoção de **Design Systems globais**, atuando como **referência técnica e mentor** para times distribuídos, garantindo padrões e velocidade.
+* **Design e Resultado:** Utilizo dados para **orientar** decisões de UX e Design System, com o objetivo de maximizar a retenção e o potencial de receita.
+* **Arquitetura Técnica:** Eu **defino e supervisiono** a **arquitetura Front-End (React)** para que ela suporte o crescimento. Minha meta é a excelência técnica e a minimização de dívida.
+* **Governança e Alinhamento:** Atuo na **gestão de expectativas** de *stakeholders* e na **mentoria de equipes**, promovendo a execução coesa da estratégia de produto.
 
 ---
 
-## 🎯 Minhas Competências Chave (Foco em Liderança e Estratégia)
+## 🎯 Minhas Entregas de Valor (Onde Atuo com Autonomia)
 <div align="center">
-🧠 **Pensamento Sistêmico:** Desenho soluções que resolvem problemas em **escala e longo prazo**.  |  📊 **Maturidade de Produto:** Gerenciamento de ciclo de vida completo (Discovery a Deploy). 
-🤝 **Mentoria e Governança:** Estabeleço padrões e guio o desenvolvimento de talentos técnicos.  |  🏆 **Autonomia Executiva:** Liderança de projetos complexos, ambíguos e de alta prioridade. 
+🧠 **Liderança em soluções ambíguas:** Definição de **visão sistêmica** para problemas complexos.  |  📈 **Conexão Estratégica:** Ligação direta entre **Design/Engenharia e KPIs de Crescimento** (e demonstração de resultados).  
+🤝 **Padronização:** **Liderança na adoção** de padrões técnicos (Design System) em **múltiplos squads**.  |  🏆 **Autonomia:** Gerenciamento e entrega de projetos de alta prioridade e complexidade.  
 </div>
 
 ---
 
-## ⚙️ Hard Skills e Frameworks (Ferramentas de um Especialista)
+## ⚙️ Hard Skills e Frameworks (Ação e Conhecimento)
 
-| Estratégia & Design Liderança | Engenharia de Escala (Front-End) | Governança & Processo |
+| Estratégia & Governança de Produto | Engenharia de Escala (Front-End) | Liderança & Processo |
 | :--- | :--- | :--- |
-| **Liderança em Design System** | **React / Next.js / Arquitetura SPA/SSR** | **OKRs, KPIs e Gestão de Múltiplos *Stakeholders*** |
-| **Definição de Produto (*Roadmap* e Visão)** | **Otimização Crítica de Performance (Web Vitals)** | **Metodologias Ágeis de Alta Performance** |
-| ![Figma](https://img.shields.io/badge/Figma-1C2833?style=for-the-badge&logo=figma&logoColor=white) (Decisão e Governança) | **JavaScript (Padrões de Projeto) e Testes E2E** | **Gitflow Avançado e CI/CD** |
+| **Definição e Liderança de Design System** | **Arquitetura React / Next.js (SSR, Component Patterns)** | **Gestão de *Stakeholders* e Comunicação Executiva** |
+| **Definição de *Roadmap* e OKRs** | **Otimização Crítica de Performance (Web Vitals)** | **Mentoria e Governança de Código** |
+| ![Figma](https://img.shields.io/badge/Figma-2C3E50?style=for-the-badge&logo=figma&logoColor=white) (Decisão e Documentação) | JavaScript Avançado, Testes E2E e Unitários | Agilidade e Gestão de Risco |
 
 ---
 
-## 🏆 Estudos de Caso de Alto Impacto (A Linguagem dos Relatórios)
+## 🏆 Estudos de Caso de Alto Impacto (Fatos e Dados)
 
 <div align="center">
 
-### 1. 🟢 Otimização do Funil de Onboarding (Geração de Receita)
-<div style="background-color: #F7F9F9; border: 1px solid #1C2833; border-radius: 12px; padding: 12px; margin: 12px 0; color: #1C2833;">
-**Desafio:** Alta fricção na conversão mobile, impactando a aquisição de clientes (CAC).
+### 1. 🟢 Otimização do Funil de Aquisição em Mobile
+<div style="background-color: #F1C40F; border: 1px solid #2C3E50; border-radius: 12px; padding: 12px; margin: 12px 0; color: #2C3E50;">
+**Desafio:** Elevado *churn* (abandono) na fase de *onboarding*, com impacto no CAC (Custo de Aquisição).
 <br>
-**Minha Ação:** Liderança do *End-to-End* do projeto, focando na reengenharia da UX e implementação em React Native de alta performance.
+**Minha Ação:** Liderança na reengenharia da UX e implementação técnica otimizada (React Native), focada em reduzir a fricção.
 <br>
-**Resultado Chave:** Gerei um aumento de **+40% na retenção de usuários** e otimização do LTV (*Lifetime Value*).
+**Resultado Chave:** Gerei um aumento validado de **+40% na retenção em 7 dias**, alavancando o LTV do cliente.
 </div>
 
-### 2. 🟢 Criação e Governança de Design System (Eficiência Operacional)
-<div style="background-color: #F7F9F9; border: 1px solid #1C2833; border-radius: 12px; padding: 12px; margin: 12px 0; color: #1C2833;">
-**Desafio:** Alto custo de manutenção e baixo *Time-to-Market* (T-T-M) devido à inconsistência técnica.
+### 2. 🟢 Estratégia e Implantação de Design System Global
+<div style="background-color: #F1C40F; border: 1px solid #2C3E50; border-radius: 12px; padding: 12px; margin: 12px 0; color: #2C3E50;">
+**Desafio:** Alto desperdício de tempo e recursos em inconsistência visual e retrabalho (40% T-T-M desperdiçado).
 <br>
-**Minha Ação:** Definição da **Estratégia do Design System** e implementação como repositório de componentes React para uso em 5 squads.
+**Minha Ação:** Definição da arquitetura e implementação do DS como fonte única para **5 produtos** diferentes.
 <br>
-**Resultado Chave:** Redução do **T-T-M em 65%** e aumento da velocidade de entrega de features, reduzindo o custo operacional da Engenharia.
+**Resultado Chave:** Foco na Redução do **"Time-to-Market" em 65%** e minimização de *bugs* de UI/UX, otimizando o custo operacional.
 </div>
 
 </div>
 
 ---
 
-## 🌐 Contato (Para Oportunidades de Liderança)
+## 🌐 Conecte-se (Pronta para o Seu Próximo Desafio)
 <p align="center">
 📧 giseli2025@gmail.com | 🌐 LinkedIn: [linkedin.com/in/giseli-felix](https://linkedin.com/in/giseli-felix) | 💜 GitHub: [github.com/giseli-felix](https://github.com/giseli-felix)
 </p>
@@ -72,5 +72,5 @@ Eu sou a profissional que garante a **conexão entre a Estratégia de Mercado e 
 ---
 
 <p align="center">
-  <strong style="background: linear-gradient(to right, #1C2833, #FFEB3B); -webkit-background-clip: text; color: transparent; font-size: 1.2em;">“Busco uma posição onde minha estratégia de produto e *expertise* técnica definam a próxima fase de crescimento da empresa.” 🚀</strong>
+  <strong style="background: linear-gradient(to right, #2C3E50, #F1C40F); -webkit-background-clip: text; color: transparent; font-size: 1.2em;">“Minha expertise é traduzir a visão executiva em produtos digitais que geram crescimento e excelência técnica. Vamos conversar sobre o futuro?” 🚀</strong>
 </p>
