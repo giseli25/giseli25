@@ -1,72 +1,70 @@
 <p align="center">
-  <img src="https://via.placeholder.com/900x200/424242/FFEB3B?text=GISELI+FELIX+--+Product+Strategy+and+Engineering+Leadership" alt="Banner focado em Liderança Estratégica" style="border-radius: 12px;" />
+  <img src="https://via.placeholder.com/900x200/1C2833/F7F9F9?text=GISELI+FELIX+--+Product+Strategy+and+Scale+Engineering" alt="Banner focado em Estratégia e Escala" style="border-radius: 12px;" />
 </p>
 
-<h1 align="center">✅ Giseli Felix.</h1>
+<h1 align="center">💡 Giseli Felix: Traduzo Visão de Produto em Valor de Negócio.</h1>
 <p align="center">
-  <strong>Especialista em Experiência de Produto e Liderança Técnica de Front-End</strong>
+  <strong>Especialista em Estratégia de Produto (UX/UI) e Engenharia de Alto Nível (Front-End)</strong>
   <br>
-  **Visão 360°: Do desenho da estratégia (UX) à performance da arquitetura (React).**
+  **Foco em Liderança Técnica e crescimento de produtos B2C e B2B.**
 </p>
 
 ---
 
-## 🚀 O meu Modelo de Trabalho 
-Meu papel é **acelerar o crescimento do negócio** através de soluções digitais de alto impacto. Eu atuo no ciclo completo:
+## 🌟 Proposta de Valor no Nível Executivo (The Scale Specialist)
+Eu sou a profissional que garante a **conexão entre a Estratégia de Mercado e a Experiência Final**. Meu valor está em:
 
-* **Estratégia & Validação:** Não apenas crio interfaces bonitas. Eu **desenho o *roadmap*** (o caminho) com base em dados, prototipo e **valido hipóteses** que impactam diretamente a métrica principal (o *North Star Metric*).
-* **Liderança Técnica & Escalabilidade:** Garanto que a experiência desenhada seja implementada com a **melhor arquitetura Front-end**. Sou referência em **Design System**, performance (Web Vitals) e **padrões de código** que evitam dívida técnica.
-* **Lógica de Negócio:** Minha maior força é a capacidade de traduzir a necessidade executiva em **soluções factíveis**, **priorizando** o que gera o maior ROI (Retorno sobre o Investimento) com o menor custo.
+* **Impacto no P&L (Lucro e Prejuízo):** Desenho e implemento soluções que demonstram impacto direto em **KPIs Financeiros** (CAC, LTV, Receita por Usuário).
+* **Decisões de Arquitetura:** Vou além do código limpo. Eu defino a **arquitetura de Front-end (React)** focada em performance, segurança e escalabilidade para múltiplos produtos/squads.
+* **Gestão de Complexidade:** Lidero a definição e a adoção de **Design Systems globais**, atuando como **referência técnica e mentor** para times distribuídos, garantindo padrões e velocidade.
 
 ---
 
-## 🎯 Eu Sou a Pessoa Certa Para o seu Desafio Se Você Precisa:
+## 🎯 Minhas Competências Chave (Foco em Liderança e Estratégia)
 <div align="center">
-🧠 **Alguém que não só *faz*, mas **decide** e **questiona** a estratégia (Pensamento Crítico)**  |  📈 **Alguém que liga UX/Código diretamente à **Receita** e **Retenção***  
-🤝 **Uma **Referência Técnica** para orientar e elevar o nível dos times Júnior/Pleno**  |  🥇 **Autonomia total para resolver problemas ambíguos e complexos.**  
+🧠 **Pensamento Sistêmico:** Desenho soluções que resolvem problemas em **escala e longo prazo**.  |  📊 **Maturidade de Produto:** Gerenciamento de ciclo de vida completo (Discovery a Deploy). 
+🤝 **Mentoria e Governança:** Estabeleço padrões e guio o desenvolvimento de talentos técnicos.  |  🏆 **Autonomia Executiva:** Liderança de projetos complexos, ambíguos e de alta prioridade. 
 </div>
 
-> **Minha proposta de valor:** Eu entrego resultados de negócio com a qualidade técnica e a maturidade de um especialista.
-
 ---
 
-## ⚙️ Habilidades Chave (O Arsenal Completo)
+## ⚙️ Hard Skills e Frameworks (Ferramentas de um Especialista)
 
-| Estratégia de Produto | Engenharia de Front-End (Escalável) | Liderança & Processo |
+| Estratégia & Design Liderança | Engenharia de Escala (Front-End) | Governança & Processo |
 | :--- | :--- | :--- |
-| **KPIs, OKRs e Visão de Produto** | **React / React Native** (Patterns e Arquitetura) | **Gestão de Stakeholders** |
-| **Design System Management** | **Performance Web (Web Vitals)** | **Comunicação de Alto Nível** |
-| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) (Decisão e Documentação) | JavaScript (ES6+), Testes Unitários | Metodologias Ágeis (Scrum/Kanban) |
+| **Liderança em Design System** | **React / Next.js / Arquitetura SPA/SSR** | **OKRs, KPIs e Gestão de Múltiplos *Stakeholders*** |
+| **Definição de Produto (*Roadmap* e Visão)** | **Otimização Crítica de Performance (Web Vitals)** | **Metodologias Ágeis de Alta Performance** |
+| ![Figma](https://img.shields.io/badge/Figma-1C2833?style=for-the-badge&logo=figma&logoColor=white) (Decisão e Governança) | **JavaScript (Padrões de Projeto) e Testes E2E** | **Gitflow Avançado e CI/CD** |
 
 ---
 
-## 🏆 Estudos de Caso de Impacto (Linguagem Executiva)
+## 🏆 Estudos de Caso de Alto Impacto (A Linguagem dos Relatórios)
 
 <div align="center">
 
-### 1. 🟣 Reengenharia de Onboarding Mobile (Case de Retenção)
-<div style="background: linear-gradient(135deg, #424242, #757575); border-radius: 12px; padding: 12px; margin: 12px 0; color: white;">
-**O Desafio:** Elevada taxa de abandono (Churn) na fase inicial do funil de conversão.
+### 1. 🟢 Otimização do Funil de Onboarding (Geração de Receita)
+<div style="background-color: #F7F9F9; border: 1px solid #1C2833; border-radius: 12px; padding: 12px; margin: 12px 0; color: #1C2833;">
+**Desafio:** Alta fricção na conversão mobile, impactando a aquisição de clientes (CAC).
 <br>
-**A Solução:** Liderança do ciclo completo: da pesquisa de usuário ao desenvolvimento otimizado em React Native.
+**Minha Ação:** Liderança do *End-to-End* do projeto, focando na reengenharia da UX e implementação em React Native de alta performance.
 <br>
-**O Resultado:** Entreguei um aumento de **+40% na retenção de novos usuários**, resultando em um crescimento exponencial da base de clientes ativos.
+**Resultado Chave:** Gerei um aumento de **+40% na retenção de usuários** e otimização do LTV (*Lifetime Value*).
 </div>
 
-### 2. 🟣 Implementação de Design System e Padrões (Case de Eficiência)
-<div style="background: linear-gradient(135deg, #757575, #424242); border-radius: 12px; padding: 12px; margin: 12px 0; color: white;">
-**O Desafio:** Alto custo de desenvolvimento e inconsistência visual entre produtos.
+### 2. 🟢 Criação e Governança de Design System (Eficiência Operacional)
+<div style="background-color: #F7F9F9; border: 1px solid #1C2833; border-radius: 12px; padding: 12px; margin: 12px 0; color: #1C2833;">
+**Desafio:** Alto custo de manutenção e baixo *Time-to-Market* (T-T-M) devido à inconsistência técnica.
 <br>
-**A Solução:** Definição da arquitetura, implementação do Design System (React Components) e capacitação do time de engenharia.
+**Minha Ação:** Definição da **Estratégia do Design System** e implementação como repositório de componentes React para uso em 5 squads.
 <br>
-**O Resultado:** Redução do **"Time-to-Market" em 65%** e eliminação de inconsistências visuais em toda a plataforma.
+**Resultado Chave:** Redução do **T-T-M em 65%** e aumento da velocidade de entrega de features, reduzindo o custo operacional da Engenharia.
 </div>
 
 </div>
 
 ---
 
-## 🌐 Conecte-se e Vamos Construir o Próximo Grande Produto
+## 🌐 Contato (Para Oportunidades de Liderança)
 <p align="center">
 📧 giseli2025@gmail.com | 🌐 LinkedIn: [linkedin.com/in/giseli-felix](https://linkedin.com/in/giseli-felix) | 💜 GitHub: [github.com/giseli-felix](https://github.com/giseli-felix)
 </p>
@@ -74,5 +72,5 @@ Meu papel é **acelerar o crescimento do negócio** através de soluções digit
 ---
 
 <p align="center">
-  <strong style="background: linear-gradient(to right, #424242, #FFEB3B); -webkit-background-clip: text; color: transparent;">“Meu foco é o crescimento do seu negócio. Vamos conversar sobre a estratégia.” 🚀</strong>
+  <strong style="background: linear-gradient(to right, #1C2833, #FFEB3B); -webkit-background-clip: text; color: transparent; font-size: 1.2em;">“Busco uma posição onde minha estratégia de produto e *expertise* técnica definam a próxima fase de crescimento da empresa.” 🚀</strong>
 </p>
