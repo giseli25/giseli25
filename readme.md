@@ -1,80 +1,72 @@
 <p align="center">
-  <img src="https://via.placeholder.com/900x200/4B0082/FFFFFF?text=💡+Giseli+Felix+--+Estratégia+de+Produto+(UX/UI+&+Front-End+High+Impact)" alt="Banner focado em Estratégia e Alto Impacto" style="border-radius: 12px;" />
+  <img src="https://via.placeholder.com/900x200/424242/FFEB3B?text=GISELI+FELIX+--+Product+Strategy+and+Engineering+Leadership" alt="Banner focado em Liderança Estratégica" style="border-radius: 12px;" />
 </p>
 
-<h1 align="center">🔥 Olá, eu sou a Giseli Felix</h1>
+<h1 align="center">✅ Giseli Felix.</h1>
 <p align="center">
-  <strong>Especialista em Experiências Digitais com Foco em Resultados de Negócio</strong>
+  <strong>Especialista em Experiência de Produto e Liderança Técnica de Front-End</strong>
   <br>
-  **Product Designer | UX/UI Estratégico | Front-End Developer (React)**
+  **Visão 360°: Do desenho da estratégia (UX) à performance da arquitetura (React).**
 </p>
 
 ---
 
-## 🚀 Sobre a Minha Estratégia de Entrega
-Minha paixão é **transformar a visão de produto em resultados mensuráveis**. Atuo na interseção do Design e da Engenharia, garantindo que as soluções sejam:
+## 🚀 O meu Modelo de Trabalho 
+Meu papel é **acelerar o crescimento do negócio** através de soluções digitais de alto impacto. Eu atuo no ciclo completo:
 
-1.  **Centradas no Usuário e no Negócio:** Combino pesquisa de UX com o atingimento de **KPIs críticos** (Conversão, Retenção, Engajamento).
-2.  **Tecnicamente Robustas:** Implemento o Front-end (React/JS) com foco em **performance, manutenibilidade** e escalabilidade (olhando sempre para a **arquitetura**).
-3.  **Lógicas e Estruturadas:** Minha abordagem é sempre **visualizar, prototipar e validar** antes da codificação, minimizando retrabalho e acelerando o *time-to-market*.
+* **Estratégia & Validação:** Não apenas crio interfaces bonitas. Eu **desenho o *roadmap*** (o caminho) com base em dados, prototipo e **valido hipóteses** que impactam diretamente a métrica principal (o *North Star Metric*).
+* **Liderança Técnica & Escalabilidade:** Garanto que a experiência desenhada seja implementada com a **melhor arquitetura Front-end**. Sou referência em **Design System**, performance (Web Vitals) e **padrões de código** que evitam dívida técnica.
+* **Lógica de Negócio:** Minha maior força é a capacidade de traduzir a necessidade executiva em **soluções factíveis**, **priorizando** o que gera o maior ROI (Retorno sobre o Investimento) com o menor custo.
 
 ---
 
-## 🎯 Minha Pegada Profissional (Onde Gero Mais Valor)
+## 🎯 Eu Sou a Pessoa Certa Para o seu Desafio Se Você Precisa:
 <div align="center">
-💡 **Liderar o ciclo de vida do produto (do problema à entrega final)**  |  📈 **Conectar decisões de Design e Código com Métricas Financeiras**  
-🛠 **Implementar e Evoluir Design Systems em ambientes React**  |  🏆 **Propor soluções autônomas para problemas complexos e ambíguos**  
+🧠 **Alguém que não só *faz*, mas **decide** e **questiona** a estratégia (Pensamento Crítico)**  |  📈 **Alguém que liga UX/Código diretamente à **Receita** e **Retenção***  
+🤝 **Uma **Referência Técnica** para orientar e elevar o nível dos times Júnior/Pleno**  |  🥇 **Autonomia total para resolver problemas ambíguos e complexos.**  
 </div>
 
-> Minha missão é construir produtos digitais que **façam a diferença**, otimizando a experiência do usuário e, consequentemente, o crescimento do negócio.
+> **Minha proposta de valor:** Eu entrego resultados de negócio com a qualidade técnica e a maturidade de um especialista.
 
 ---
 
-## ⚙️ Skills Estratégicas e Ferramentas
+## ⚙️ Habilidades Chave (O Arsenal Completo)
 
-| UX/Produto (Estratégico) | Front-end (Alto Impacto) | Gestão e Arquitetura |
+| Estratégia de Produto | Engenharia de Front-End (Escalável) | Liderança & Processo |
 | :--- | :--- | :--- |
-| **Estratégia de Produto (KPIs)** | **React / React Native** | **Gitflow** e Boas Práticas |
-| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) (Protótipos de Alta Fidelidade) | **Design System (Componentização)** | **Jira / Trello / Asana** (Gestão Ágil) |
-| Testes de Usabilidade e A/B | **JavaScript (ES6+) e Performance Web** | Lógica / Estruturas de Dados |
-| Design Visual e Acessibilidade | HTML5 / CSS3 (Pré-processadores) | Notion (Documentação) |
+| **KPIs, OKRs e Visão de Produto** | **React / React Native** (Patterns e Arquitetura) | **Gestão de Stakeholders** |
+| **Design System Management** | **Performance Web (Web Vitals)** | **Comunicação de Alto Nível** |
+| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) (Decisão e Documentação) | JavaScript (ES6+), Testes Unitários | Metodologias Ágeis (Scrum/Kanban) |
 
 ---
 
-## 🏆 Projetos de Alto Impacto (Foco no Resultado)
+## 🏆 Estudos de Caso de Impacto (Linguagem Executiva)
 
 <div align="center">
 
-### 1. 🟣 App de Produtividade Interativo (Case de Aumento de Engajamento)
-<div style="background: linear-gradient(135deg, #4B0082, #9932CC); border-radius: 12px; padding: 12px; margin: 12px 0; color: white;">
-<strong>Front-end:</strong> React Native com foco em **Performance Mobile**.
+### 1. 🟣 Reengenharia de Onboarding Mobile (Case de Retenção)
+<div style="background: linear-gradient(135deg, #424242, #757575); border-radius: 12px; padding: 12px; margin: 12px 0; color: white;">
+**O Desafio:** Elevada taxa de abandono (Churn) na fase inicial do funil de conversão.
 <br>
-<strong>UX/UI Estratégico:</strong> Reestruturação da jornada de *onboarding* e microinterações.
+**A Solução:** Liderança do ciclo completo: da pesquisa de usuário ao desenvolvimento otimizado em React Native.
 <br>
-<strong>Impacto:</strong> Aumento de **+40% na retenção de usuários** nos primeiros 7 dias (resultado validado em testes internos).
+**O Resultado:** Entreguei um aumento de **+40% na retenção de novos usuários**, resultando em um crescimento exponencial da base de clientes ativos.
 </div>
 
-### 2. 🟣 Website Interativo e Funcional (Case de Prototipagem Ágil)
-<div style="background: linear-gradient(135deg, #9932CC, #4B0082); border-radius: 12px; padding: 12px; margin: 12px 0; color: white;">
-<strong>Tecnologias:</strong> HTML, CSS, JS puro.
+### 2. 🟣 Implementação de Design System e Padrões (Case de Eficiência)
+<div style="background: linear-gradient(135deg, #757575, #424242); border-radius: 12px; padding: 12px; margin: 12px 0; color: white;">
+**O Desafio:** Alto custo de desenvolvimento e inconsistência visual entre produtos.
 <br>
-<strong>Ação:</strong> Liderança na **prototipagem rápida e eficiente** para validação de mercado.
+**A Solução:** Definição da arquitetura, implementação do Design System (React Components) e capacitação do time de engenharia.
 <br>
-<strong>Impacto:</strong> **Redução de 30% no custo** de desenvolvimento inicial ao validar a ideia com usuários antes de migrar para React.
-</div>
-
-### 3. 🟣 Integração de Sistema Corporativo (Case de Otimização de Processo)
-<div style="background: linear-gradient(135deg, #4B0082, #9932CC); border-radius: 12px; padding: 12px; margin: 12px 0; color: white;">
-<strong>Organização e Planejamento:</strong> Definição da **arquitetura de integração de API** entre plataformas legadas.
-<br>
-<strong>Impacto:</strong> Redução de **50% no tempo de análise** e processamento de dados do cliente, otimizando o fluxo de trabalho interno.
+**O Resultado:** Redução do **"Time-to-Market" em 65%** e eliminação de inconsistências visuais em toda a plataforma.
 </div>
 
 </div>
 
 ---
 
-## 🌐 Contato Profissional
+## 🌐 Conecte-se e Vamos Construir o Próximo Grande Produto
 <p align="center">
 📧 giseli2025@gmail.com | 🌐 LinkedIn: [linkedin.com/in/giseli-felix](https://linkedin.com/in/giseli-felix) | 💜 GitHub: [github.com/giseli-felix](https://github.com/giseli-felix)
 </p>
@@ -82,5 +74,5 @@ Minha paixão é **transformar a visão de produto em resultados mensuráveis**.
 ---
 
 <p align="center">
-  <strong style="background: linear-gradient(to right, #4B0082, #9932CC); -webkit-background-clip: text; color: transparent;">“Minha expertise é traduzir estratégia de negócio em experiências digitais que geram impacto financeiro real.” 🚀</strong>
+  <strong style="background: linear-gradient(to right, #424242, #FFEB3B); -webkit-background-clip: text; color: transparent;">“Meu foco é o crescimento do seu negócio. Vamos conversar sobre a estratégia.” 🚀</strong>
 </p>
