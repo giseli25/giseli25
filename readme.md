@@ -1,40 +1,40 @@
 <p align="center">
-  <img src="https://via.placeholder.com/900x200/2C3E50/F1C40F?text=GISELI+FELIX+--+Product+Strategy+and+Engineering+Leadership" alt="Banner focado em Estratégia e Liderança" style="border-radius: 12px;" />
+  <img src="https://via.placeholder.com/900x200/2C3E50/F1C40F?text=GISELI+FELIX+--+Product+Design+and+Engineering+Driven+by+Results" alt="Banner focado em Estratégia e Resultados" style="border-radius: 12px;" />
 </p>
 
-<h1 align="center">✅ Giseli Felix: Eu defino a Estratégia e Lidero a Implementação de Produtos.</h1>
+<h1 align="center">✅ Giseli Felix: Eu executo a Estratégia e Construo Produtos Escaláveis.</h1>
 <p align="center">
-  <strong>Especialista em Experiência de Produto e Liderança Técnica de Front-End (React)</strong>
+  <strong>Profissional com Foco em Experiência de Produto (UX/UI) e Desenvolvimento Front-End (React)</strong>
   <br>
-  **Foco principal: Conectar o *roadmap* de produto aos resultados mensuráveis do negócio.**
+  **Minha função é simples: Conectar o Design e o Código diretamente aos resultados do negócio.**
 </p>
 
 ---
 
-## 🚀 Meu Modelo de Trabalho (Responsabilidades de Alto Nível)
-Minha atuação é estratégica e se concentra na **governança e escalabilidade** de soluções digitais. Eu me concentro em três pilares:
+## 🚀 Meu Jeito de Trabalhar (Execução e Proatividade)
+Minha atuação é focada na **entrega autônoma e na qualidade técnica**. Eu trabalho em três frentes com profundidade:
 
-* **Design e Resultado:** Utilizo dados para **orientar** decisões de UX e Design System, com o objetivo de maximizar a retenção e o potencial de receita.
-* **Arquitetura Técnica:** Eu **defino e supervisiono** a **arquitetura Front-End (React)** para que ela suporte o crescimento. Minha meta é a excelência técnica e a minimização de dívida.
-* **Governança e Alinhamento:** Atuo na **gestão de expectativas** de *stakeholders* e na **mentoria de equipes**, promovendo a execução coesa da estratégia de produto.
+* **Design Focado em Resultados:** Utilizo dados para **orientar** as decisões de UX e Design System, com o objetivo de maximizar a retenção e o potencial de receita.
+* **Proficiência Técnica:** Eu **aplico padrões** e **executo o Front-End (React)** com foco em performance e escalabilidade. Minha meta é a excelência na entrega de código de alta qualidade.
+* **Visão 360°:** Tenho maturidade para **gerenciar tarefas complexas** e **colaborar ativamente** com times de produto e engenharia, buscando sempre o alinhamento total.
 
 ---
 
-## 🎯 Minhas Entregas de Valor (Onde Atuo com Autonomia)
+## 🎯 Eu Gero Valor Máximo Quando:
 <div align="center">
-🧠 **Liderança em soluções ambíguas:** Definição de **visão sistêmica** para problemas complexos.  |  📈 **Conexão Estratégica:** Ligação direta entre **Design/Engenharia e KPIs de Crescimento** (e demonstração de resultados).  
-🤝 **Padronização:** **Liderança na adoção** de padrões técnicos (Design System) em **múltiplos squads**.  |  🏆 **Autonomia:** Gerenciamento e entrega de projetos de alta prioridade e complexidade.  
+🧠 **Soluções Complexas:** Recebo desafios que exigem **raciocínio lógico e estruturado** (Pleno+).  |  📈 **Execução Estratégica:** Me dedico a projetos que ligam diretamente **UX/Código a KPIs de Crescimento**.  
+🤝 **Padronização e Qualidade:** Contribuo ativamente na **definição e adoção** de padrões técnicos (Design System).  |  🏆 **Autonomia:** Posso conduzir a entrega de ponta a ponta com **supervisão mínima** e foco no resultado.  
 </div>
 
 ---
 
 ## ⚙️ Hard Skills e Frameworks (Ação e Conhecimento)
 
-| Estratégia & Governança de Produto | Engenharia de Escala (Front-End) | Liderança & Processo |
+| Estratégia & Design Foco | Engenharia de Front-End (Proficiente) | Colaboração & Processo |
 | :--- | :--- | :--- |
-| **Definição e Liderança de Design System** | **Arquitetura React / Next.js (SSR, Component Patterns)** | **Gestão de *Stakeholders* e Comunicação Executiva** |
-| **Definição de *Roadmap* e OKRs** | **Otimização Crítica de Performance (Web Vitals)** | **Mentoria e Governança de Código** |
-| ![Figma](https://img.shields.io/badge/Figma-2C3E50?style=for-the-badge&logo=figma&logoColor=white) (Decisão e Documentação) | JavaScript Avançado, Testes E2E e Unitários | Agilidade e Gestão de Risco |
+| **Definição e Uso de Design System** | **React / Next.js** (Componentização e Boas Práticas) | **Colaboração com *Stakeholders*** |
+| **UX Research e Prototipagem Avançada** | **Otimização de Performance (Web Vitals)** | **Metodologias Ágeis (Scrum/Kanban)** |
+| ![Figma](https://img.shields.io/badge/Figma-2C3E50?style=for-the-badge&logo=figma&logoColor=white) (Execução e Documentação) | JavaScript, HTML, CSS (Proficiência) e Testes | Gitflow e Code Review |
 
 ---
 
@@ -44,18 +44,18 @@ Minha atuação é estratégica e se concentra na **governança e escalabilidade
 
 ### 1. 🟢 Otimização do Funil de Aquisição em Mobile
 <div style="background-color: #F1C40F; border: 1px solid #2C3E50; border-radius: 12px; padding: 12px; margin: 12px 0; color: #2C3E50;">
-**Desafio:** Elevado *churn* (abandono) na fase de *onboarding*, com impacto no CAC (Custo de Aquisição).
+**O Contexto:** Elevado *churn* (abandono) na fase de *onboarding*, limitando a aquisição de clientes.
 <br>
-**Minha Ação:** Liderança na reengenharia da UX e implementação técnica otimizada (React Native), focada em reduzir a fricção.
+**Minha Ação:** Execução do redesenho da UX e implementação técnica otimizada (React Native), com foco em reduzir a fricção da jornada.
 <br>
-**Resultado Chave:** Gerei um aumento validado de **+40% na retenção em 7 dias**, alavancando o LTV do cliente.
+**Resultado Chave:** Contribuição para um aumento validado de **+40% na retenção em 7 dias**, alavancando o LTV do cliente.
 </div>
 
-### 2. 🟢 Estratégia e Implantação de Design System Global
+### 2. 🟢 Contribuição na Implantação de Design System
 <div style="background-color: #F1C40F; border: 1px solid #2C3E50; border-radius: 12px; padding: 12px; margin: 12px 0; color: #2C3E50;">
-**Desafio:** Alto desperdício de tempo e recursos em inconsistência visual e retrabalho (40% T-T-M desperdiçado).
+**O Contexto:** Gasto de tempo em retrabalho e inconsistência visual entre produtos.
 <br>
-**Minha Ação:** Definição da arquitetura e implementação do DS como fonte única para **5 produtos** diferentes.
+**Minha Ação:** Execução e contribuição ativa na arquitetura e implementação do DS como fonte única para o time.
 <br>
 **Resultado Chave:** Foco na Redução do **"Time-to-Market" em 65%** e minimização de *bugs* de UI/UX, otimizando o custo operacional.
 </div>
@@ -72,5 +72,5 @@ Minha atuação é estratégica e se concentra na **governança e escalabilidade
 ---
 
 <p align="center">
-  <strong style="background: linear-gradient(to right, #2C3E50, #F1C40F); -webkit-background-clip: text; color: transparent; font-size: 1.2em;">“Minha expertise é traduzir a visão executiva em produtos digitais que geram crescimento e excelência técnica. Vamos conversar sobre o futuro?” 🚀</strong>
+  <strong style="background: linear-gradient(to right, #2C3E50, #F1C40F); -webkit-background-clip: text; color: transparent; font-size: 1.2em;">“Busco um ambiente onde minha proatividade e foco em resultados se transformem em crescimento acelerado. Vamos conversar sobre o futuro?” 🚀</strong>
 </p>
