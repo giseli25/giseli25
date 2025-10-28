@@ -1,29 +1,28 @@
-#  GISÉLI FELIX | UX-AI Strategist (Associate) 
+# 🟣 GISÉLI FELIX | Associate UX-AI Strategist & ML Developer 💡
 
 Profissional híbrida focada em **Inteligência Artificial (ML)** e **Design de Experiência (UX)**. A minha missão é garantir que a tecnologia seja implementada com **excelência técnica, usabilidade e integridade ética**. Busco a primeira posição para contribuir na otimização do ciclo de desenvolvimento de produtos de IA.
----
-
-| Valor de Negócio | Foco na Solução |
-| :--- | :--- |
-| **Mitigação de Riscos** | Design de interfaces que aumentam a **transparência algorítmica** e a confiança do utilizador, reduzindo o risco de baixa adoção da IA. |
-| **Otimização do Handoff** | Uso o *mindset* de **ML/Python** para garantir que os protótipos de UX sejam **tecnicamente viáveis** e prontos para a integração da Engenharia. |
-| **Base Técnica Sólida** | Proficiência em **Data Wrangling** (Pandas/NumPy) e Fundamentos de Modelagem Preditiva. |
 
 ---
 
 
+| Habilidade | Nível | Status) |
+| :--- | :--- | :--- |
+| **Python & ML (Core)** | Avançado (Estudo) | `⚪⚪⚪⚪⚪` <span style="color: #4A235A;">`████`</span> <span style="color: #EBEBD3;">`█`</span> |
+| **UX & Figma** | Avançado (Estudo) | `⚪⚪⚪⚪⚪` <span style="color: #4A235A;">`████`</span> <span style="color: #EBEBD3;">`█`</span> |
+| **Data Wrangling** | Intermediário | `⚪⚪⚪⚪⚪` <span style="color: #8E44AD;">`███`</span> <span style="color: #EBEBD3;">`██`</span> |
+| **Git & GitHub** | Intermediário | `⚪⚪⚪⚪⚪` <span style="color: #8E44AD;">`███`</span> <span style="color: #EBEBD3;">`██`</span> |
+| **JS (Conceitos)** | Básico | `⚪⚪⚪⚪⚪` <span style="color: #EBEBD3;">`███`</span> <span style="color: #4A235A;">`██`</span> |
 
-Minhas proficiências técnicas são apresentadas no gráfico de radar abaixo, destacando as minhas habilidades para a área.
-
+<br>
 <p align="center">
-  <img src="https://i.imgur.com/your-radar-chart-image.png" alt="Gráfico de Proficiência em Habilidades de Giseli Felix" width="600"/>
-  <br>
+  <span style="color: #4A235A;">`██`</span> = Proficiência Elevada &nbsp;&nbsp;&nbsp; <span style="color: #8E44AD;">`██`</span> = Proficiência Média &nbsp;&nbsp;&nbsp; <span style="color: #EBEBD3;">`██`</span> = Conhecimento Básico
+</p>
+<br>
 
 ---
 
-## 📞 Contato Profissional e Redes
-
-Disponibilidade imediata para entrevistas
+##  Contato Profissional 
+Disponibilidade imediata para entrevistas 
 
 <p align="center">
   <a href="[Seu link do LinkedIn aqui]">
