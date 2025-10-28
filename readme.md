@@ -4,7 +4,7 @@ Profissional híbrida focada em **Inteligência Artificial (ML)** e **Design de 
 
 ---
 
-## 🎯 Contribuição e Valor Estratégico
+## Contribuição e Valor Estratégico
 
 A minha especialização resolve o *gap* comum em equipas de produto, focando em soluções que geram valor imediato:
 
@@ -16,9 +16,7 @@ A minha especialização resolve o *gap* comum em equipas de produto, focando em
 
 ---
 
-## 🛠️ Stack Tecnológico e Proficiência
-
-A minha proficiência técnica é comprovada pelas ferramentas standard da indústria, com o toque da paleta Lilás e Bege:
+##  Stack Tecnológico e Proficiência
 
 | Categoria | Proficiência | Badges (Lilás e Bege) |
 | :--- | :--- | :--- |
@@ -29,7 +27,7 @@ A minha proficiência técnica é comprovada pelas ferramentas standard da indú
 
 ---
 
-## 📞 Contato Profissional e Redes
+##  Contato Profissional e Redes
 
 Disponibilidade imediata para entrevistas e *challenges*.
 
