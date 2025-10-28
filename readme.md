@@ -31,12 +31,6 @@ Estou dedicando meu tempo a aprender as seguintes tecnologias e conceitos. Estas
   
 </p>
 
-  
-### 💬 Vamos Conectar?
-
-Estou sempre aberto(a) a novas conexões, oportunidades de aprendizado e conversas sobre o futuro da IA e UX. Se você tem dicas sobre como começar, projetos para colaborar ou só quer trocar uma ideia, me chame!
-
-
 ### 💬 Vamos Conectar?
 
 Estou sempre aberto(a) a novas conexões, oportunidades de aprendizado e conversas sobre o futuro da IA e UX. Se você tem dicas sobre como começar, projetos para colaborar ou só quer trocar uma ideia, me chame!
