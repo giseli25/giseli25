@@ -10,7 +10,7 @@
 
 
 
-Estou em uma jornada de aprendizado contínuo, explorando a interseção fascinante entre Inteligência Artificial (IA) e **User Experience (UX). Acredito no potencial da tecnologia para criar soluções que não são apenas inteligentes, mas também intuitivas e centradas no ser humano.
+Estou em uma jornada de aprendizado contínuo, explorando a interseção fascinante entre Inteligência Artificial (IA) e User Experience (UX). Acredito no potencial da tecnologia para criar soluções que não são apenas inteligentes, mas também intuitivas e centradas no ser humano.
 
 Apesar de estar no início da minha carreira e ainda não ter experiência formal, estou ativamente estudando e construindo meu portfólio nessas áreas. Meu objetivo é transformar dados e algoritmos em experiências de usuário excepcionais.
 
