@@ -20,7 +20,7 @@ A minha especialização resolve o *gap* comum em equipas de produto, focando em
 
 Minhas proficiências técnicas são apresentadas abaixo, simulando um gráfico de barras com a nossa paleta Lilás e Bege.
 
-| Habilidade | Nível de Proficiência | Visual (Lilás/Bege) |
+| Habilidade | Nível de Proficiência | Status|
 | :--- | :--- | :--- |
 | **Python & ML (Core)** | Avançado (Estudo) | 💜💜💜💜🤍 |
 | **UX & Figma** | Avançado (Estudo) | 💜💜💜💜🤍 |
