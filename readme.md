@@ -2,7 +2,7 @@
   
   # Olá! Eu sou Giseli Felix 
   
-  ### Entusiasta de Inteligência Artificial e Design de Experiência do Usuário
+  ### Apaixonada  por Inteligência Artificial e Design de Experiência do Usuário
 
 </div>
 
