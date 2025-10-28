@@ -1,4 +1,4 @@
-# 🟣 GISÉLI FELIX | UX-AI Strategist (Associate) 
+#  Giseli Felix | UX-AI Strategist (Associate) 
 
 Profissional híbrida focada em **Inteligência Artificial (ML)** e **Design de Experiência (UX)**. A minha missão é garantir que a tecnologia seja implementada com **excelência técnica, usabilidade e integridade ética**. Busco a primeira posição para contribuir na otimização do ciclo de desenvolvimento de produtos de IA.
 
