@@ -1,8 +1,6 @@
 <div align="center">
   
-  <img src="URL_PARA_UMA_IMAGEM_OU_GIF_DE_BOAS_VINDAS" alt="Olá, Mundo!" width="600"/>
-
-  # Olá! Eu sou Giseli Felix 👋
+  # Olá! Eu sou Giseli Felix 
   
   ### Entusiasta de Inteligência Artificial e Design de Experiência do Usuário
 
