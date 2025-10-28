@@ -10,7 +10,7 @@
 
 ---
 
-### 🌟 Apresentação
+### Apresentação
 
 Estou em uma jornada de aprendizado contínuo, explorando a interseção fascinante entre Inteligência Artificial (IA) e **User Experience (UX). Acredito no potencial da tecnologia para criar soluções que não são apenas inteligentes, mas também intuitivas e centradas no ser humano.
 
@@ -33,22 +33,26 @@ Estou dedicando meu tempo a aprender as seguintes tecnologias e conceitos. Estas
   
 </p>
 
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO]&show_icons=true&theme=vue&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO]&layout=compact&langs_count=6&theme=vue&hide_border=true" alt="Linguagens Mais Usadas" />
-  </p>
-
-  </div>
-
----
-
+  
 ### 💬 Vamos Conectar?
 
 Estou sempre aberto(a) a novas conexões, oportunidades de aprendizado e conversas sobre o futuro da IA e UX. Se você tem dicas sobre como começar, projetos para colaborar ou só quer trocar uma ideia, me chame!
 
 
-| :--- | :--- |
-| **LinkedIn** | (https://www.linkedin.com/in/giseli-felix-1a6aa525a/) |
-| **Email** | giseli2025@gmail.com |
+### 💬 Vamos Conectar?
+
+Estou sempre aberto(a) a novas conexões, oportunidades de aprendizado e conversas sobre o futuro da IA e UX. Se você tem dicas sobre como começar, projetos para colaborar ou só quer trocar uma ideia, me chame!
+
+<p align="left">
+  
+  <a href="https://www.linkedin.com/in/giseli-felix-1a6aa525a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Giseli Felix">
+  </a>
+  
+  <a href="mailto:giseli2025@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email de Giseli Felix">
+  </a>
+  
+</p>
 
 ---
