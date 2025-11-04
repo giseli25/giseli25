@@ -10,11 +10,9 @@
 
 
 
-Estou em uma jornada de aprendizado contínuo, explorando a interseção fascinante entre Inteligência Artificial (IA) e User Experience (UX). Acredito no potencial da tecnologia para criar soluções que não são apenas inteligentes, mas também intuitivas e centradas no ser humano.
+Meu foco é a interseção entre Inteligência Artificial (IA), User Experience (UX) e Desenvolvimento Mobile. Busco criar soluções que sejam ao mesmo tempo inteligentes, intuitivas e acessíveis em dispositivos móveis.
 
-Apesar de estar no início da minha carreira e ainda não ter experiência formal, estou ativamente estudando e construindo meu portfólio nessas áreas. Meu objetivo é transformar dados e algoritmos em experiências de usuário excepcionais.
-
-Estou dedicando meu tempo a aprender as seguintes tecnologias e conceitos. Estas são as ferramentas que me ajudarão a dar vida aos meus projetos:
+Embora esteja no início da minha carreira e sem experiência formal, estou ativamente estudando e construindo meu portfólio nessas áreas. Estou me dedicando a aprender as seguintes ferramentas para dar vida a esses projetos
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -31,7 +29,6 @@ Estou dedicando meu tempo a aprender as seguintes tecnologias e conceitos. Estas
 </p>
 
 <p align="center">
-  Também estou explorando o desenvolvimento mobile, buscando criar experiências fluidas e acessíveis em dispositivos móveis:
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
